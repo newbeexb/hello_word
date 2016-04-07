@@ -1,2 +1,3 @@
 # hello_word
-just test
+reade me at first!!!
+hello world!!
